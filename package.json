@@ -1,0 +1,25 @@
+{
+  "name": "lswebhomework2",
+  "version": "1.0.0",
+  "description": "Your homework for this week is simple: replicate this image: http://i.imgur.com/SAgkOfx.jpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steverjo/lswebhomework2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steverjo/lswebhomework2/issues"
+  },
+  "homepage": "https://github.com/steverjo/lswebhomework2#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
